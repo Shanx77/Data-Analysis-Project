@@ -1,2 +1,3 @@
-# Python_Diwali_Sales_Analysis
-Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+# Data Analysis Project
+Internship week 1 project:
+Analysis of Sales data during Diwali using python
